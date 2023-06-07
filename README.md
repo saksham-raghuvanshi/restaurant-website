@@ -31,3 +31,6 @@ Follow My Instagram pages: @frontendgyaan
 <br>
 Follow me on Linkedin: saksham-raghuvanshi
 
+Contributing
+Contributions to this project are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
