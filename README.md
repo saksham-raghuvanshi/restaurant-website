@@ -15,10 +15,10 @@ Visit - https://saksham-raghuvanshi.github.io/My-first-web-Project/
 
 <h2>Getting Started</h2>
 To get a copy of this project up and running on your local machine, follow these steps:
-
-Clone the repository: git clone https://github.com/saksham-raghuvanshi/restaurant-website.git
-Navigate to the project directory: cd restaurant-websit
-  
+<ul>
+<li>Clone the repository: git clone https://github.com/saksham-raghuvanshi/restaurant-website.git </li>
+  <li>Navigate to the project directory: cd restaurant-websit</li>
+</ul>  
 That's it! You now have the project files on your local machine.
   
   
