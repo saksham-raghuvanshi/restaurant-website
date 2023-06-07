@@ -4,7 +4,7 @@ This is a simple restaurant website project built using HTML, CSS, and JavaScrip
 Visit - https://saksham-raghuvanshi.github.io/My-first-web-Project/
 <br>
 
-<h2>Features<h2>
+<h2>Features</h2>
 <ul>
   <li>Responsive design that adapts to different screen sizes and devices.</li>
   <li>Home section with a hero image and catchy tagline.</li>
@@ -13,7 +13,7 @@ Visit - https://saksham-raghuvanshi.github.io/My-first-web-Project/
   <li>Contact section with a contact form and address details.</li>
  </ul>
 
-Getting Started
+<h2>Getting Started</h2>
 To get a copy of this project up and running on your local machine, follow these steps:
 
 Clone the repository: git clone https://github.com/saksham-raghuvanshi/restaurant-website.git
